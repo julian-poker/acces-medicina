@@ -1,0 +1,98 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+
+#contenedor {
+    width: 1320px;
+    height: 1100px;
+    background-color: blueviolet;
+    margin: 0.5em auto;
+    padding: 0.5em;
+}
+
+#header {
+    height: 20%;
+    background-color: rgb(159, 195, 230);
+    border-radius: 1em;
+    margin: 1cm;
+}
+
+#section {
+    width: 50%;
+    height: 70%;
+    background-color: rgb(171, 221, 223);
+    float: left;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#article {
+    width: 47%;
+    height: 80%;
+    background-color: rgb(236, 241, 241);
+    float: right;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#nav {
+    width: 47%;
+    height: 50%;
+    background-color: rgb(200, 235, 193);
+    float: right;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#aside {
+    width: 50%;
+    height: 60%;
+    background-color: rgb(235, 121, 164);
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#map {
+    width: 50%;
+    height: 30%;
+    background-color: rgb(0, 0, 0);
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+#table {
+    border: 1px;
+    background-color: blue;
+    border-collapse: collapse;
+}
+
+table,
+th,
+td,
+tr {
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+th,
+td,
+tr {
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+}
+
+#h1 {
+    background-color: rgb(17, 0, 255);
+}
+
+#h2 {
+    background-color: black;
+}
+
+.contimg img {
+    height: 600px;
+}
